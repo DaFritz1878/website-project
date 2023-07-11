@@ -1,8 +1,8 @@
-Udacity Business Analyst Nanodegree Final Project
+#Udacity Business Analyst Nanodegree Final Project
 
 This repository contains the final project for the Udacity Business Analyst Nanodegree. The project is a data analysis of the financial performance of a fictional company, Acme Corporation. The project uses data visualizations, P&L statements, Excel, Google Sheets, forecasting revenue, pivot tables, Tableau, SQL, and GitHub.
 
-Project Goals
+##Project Goals
 The goals of this project are to:
 
 Demonstrate the skills learned in the Udacity Business Analyst Nanodegree
